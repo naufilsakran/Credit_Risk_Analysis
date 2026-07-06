@@ -149,9 +149,7 @@ Credit_Risk_Analysis/
 │
 ├── Project_report.ipynb
 │
-├── README.md
-│
-└── .gitignore
+└── README.md
 ```
 
 ---
