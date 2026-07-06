@@ -22,7 +22,7 @@ The objective is to classify loans into **Good Loans** and **Bad Loans** using b
 
 ## Dataset
 
-The project uses the publicly available **Lending Club Loan Dataset**.
+The project uses the publicly available **Lending Club Loan Dataset (https://drive.google.com/file/d/1rG9d4Xqo3glxTxv6CCng-BQ1hQHJtf_z/view?usp=sharing)**.
 
 The dataset contains information such as
 
