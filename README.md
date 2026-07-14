@@ -109,9 +109,8 @@ The project builds binary classification models to predict whether a loan is lik
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- Neural Network (MLP)
 
-Additional models such as **XGBoost**, **LightGBM**, and **CatBoost** can also be incorporated for comparison.
+Additional models such as XGBoost, LightGBM, and CatBoost can also be incorporated for comparison.
 
 ---
 
